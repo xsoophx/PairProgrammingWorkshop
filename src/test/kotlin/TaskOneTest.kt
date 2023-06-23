@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test
 
 class TaskOneTest {
 
-    private val taskOne = TaskOneSolution
+    private val taskOne = TaskOne
 
     // Beispiel:
     @Test
