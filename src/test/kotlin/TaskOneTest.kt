@@ -39,7 +39,7 @@ class TaskOneTest {
     // 5.
     @Test
     fun `should return name`() {
-        assertEquals(expected = "Max", actual = taskOne.printName("Max"))
+        assertEquals(expected = "Hallo, Max", actual = taskOne.printName("Max"))
     }
 
     // 6.

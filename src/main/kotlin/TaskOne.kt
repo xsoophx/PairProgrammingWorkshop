@@ -5,17 +5,17 @@ object TaskOne {
         return "Hallo Welt!"
     }
 
-    // 1. Schreibe eine Funktion, die eine Zahl einliest und diese Zahl dann verdoppelt aus- und zurückgibt.
+    // 1. Schreibe eine Funktion, die eine Zahl verdoppelt aus- und zurückgibt.
     fun double(a: Int): Int {
         throw NotImplementedError("TODO")
     }
 
-    // 2. Schreibe eine Funktion, die zwei Ganzzahlen vom Benutzer einliest und deren Summe ausgibt.
+    // 2. Schreibe eine Funktion, die die Summe zweier Ganzzahlen ausgibt.
     fun sumOf(a: Int, b: Int): Int {
         throw NotImplementedError("TODO")
     }
 
-    // 3. Schreibe eine Funktion, die eine Zeichenkette einliest und deren Länge aus- und zurückgibt.
+    // 3. Schreibe eine Funktion, die die Länge einer Zeichenkette aus- und zurückgibt.
     fun lengthOfString(string: String): Int {
         throw NotImplementedError("TODO")
     }
@@ -25,7 +25,7 @@ object TaskOne {
         throw NotImplementedError("TODO")
     }
 
-    // 5. Schreibe eine Funktion, die den Benutzer nach seinem Namen fragt und dann "Hallo, [Name]!" aus und zurückgibt.
+    // 5. Schreibe eine Funktion, die den Namen eines Benutzers als Parameter übergeben bekommt und "Hallo, [Name]!" aus und zurückgibt.
     fun printName(name: String): String {
         throw NotImplementedError("TODO")
     }
@@ -88,7 +88,7 @@ object TaskOne {
 
     // 17. Schreibe eine Funktion, die prüft, ob eine Zeichenkette ein Palindrom ist.
     fun isPalindrome(string: String): Boolean {
-        return string == string.reversed()
+        throw NotImplementedError("TODO")
     }
 
     // 18. Schreibe eine Funktion, die die Anzahl der Vokale in einer Zeichenkette zählt.
