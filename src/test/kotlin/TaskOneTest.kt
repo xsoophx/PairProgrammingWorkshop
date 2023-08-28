@@ -39,7 +39,7 @@ class TaskOneTest {
     // 5.
     @Test
     fun `should return name`() {
-        assertEquals(expected = "Hallo, Max", actual = taskOne.printName("Max"))
+        assertEquals(expected = "Hallo, Max!", actual = taskOne.printName("Max"))
     }
 
     // 6.
@@ -75,7 +75,7 @@ class TaskOneTest {
     // 11.
     @Test
     fun `should fill array with random numbers`() {
-        assertEquals(expected = 42, actual = taskOne.fillWithTenRandomNumbers(42).size)
+        assertEquals(expected = 42, actual = taskOne.fillWithRandomNumbers(42).size)
     }
 
     // 12.

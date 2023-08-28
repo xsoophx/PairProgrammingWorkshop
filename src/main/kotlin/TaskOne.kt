@@ -55,12 +55,12 @@ object TaskOne {
         throw NotImplementedError("TODO")
     }
 
-    // 11. Schreibe eine Funktion, die eine Liste mit 10 Zufallszahlen zwischen 1 und 100 füllt und diese aus- und zurück gibt.
-    fun fillWithTenRandomNumbers(size: Int): List<Int> {
+    // 11. Schreibe eine Funktion, die eine Liste mit <size> Zufallszahlen zwischen 1 und 100 füllt und diese aus- und zurück gibt.
+    fun fillWithRandomNumbers(size: Int): List<Int> {
         throw NotImplementedError("TODO")
     }
 
-    // 12. Schreibe eine Funktion, die eine Liste von Zahlen akzeptiert und die Maximum und Minimum zurückgibt.
+    // 12. Schreibe eine Funktion, die eine Liste von Zahlen akzeptiert und die Minimum und Maximum zurückgibt.
     fun minMax(list: List<Int>): Pair<Int, Int> {
         throw NotImplementedError("TODO")
     }
