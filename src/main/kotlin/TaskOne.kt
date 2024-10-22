@@ -54,7 +54,7 @@ object TaskOne {
         throw NotImplementedError("TODO")
     }
 
-    // 9. Schreibe eine Funktion, die eine Liste von Wörtern akzeptiert und die längste Wort zurückgibt.
+    // 9. Schreibe eine Funktion, die eine Liste von Wörtern akzeptiert und das längste Wort zurückgibt.
     // 9. Write a function that accepts a list of words and returns the longest word.
     fun longestWord(list: List<String>): String {
         throw NotImplementedError("TODO")
