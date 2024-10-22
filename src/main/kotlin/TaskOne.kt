@@ -37,7 +37,7 @@ object TaskOne {
     }
 
     // 6. Schreibe eine Funktion, die eine Liste von Zahlen akzeptiert und deren Durchschnitt aus- und zurückgibt.
-    // 6. Write a function that accepts a list of numbers and prints their average.
+    // 6. Write a function that accepts a list of numbers and prints and returns their average.
     fun average(list: List<Int>): Double {
         throw NotImplementedError("TODO")
     }
