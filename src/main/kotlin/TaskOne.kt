@@ -7,7 +7,7 @@ object TaskOne {
     }
 
     // 1. Schreibe eine Funktion, die eine Zahl verdoppelt aus- und zurückgibt.
-    // 1. Write a function that doubles a number and returns it.
+    // 1. Write a function that doubles a number, prints and returns it.
     fun double(a: Int): Int {
         throw NotImplementedError("TODO")
     }
