@@ -13,7 +13,7 @@ object TaskOne {
     }
 
     // 2. Schreibe eine Funktion, die die Summe zweier Ganzzahlen aus- und zurückgibt.
-    // 2. Write a function that prints the sum of two integers.
+    // 2. Write a function that prints the sum of two integers and returns it.
     fun sumOf(a: Int, b: Int): Int {
         throw NotImplementedError("TODO")
     }
